@@ -24,4 +24,4 @@ python snake.py
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
-![alt text](https://github.com/collins-hue/snake-xenzia/blob/main/scrnsht_3.png)
+![alt text](https://github.com/collins-hue/snake-xenzia/blob/main/scrnsht_4.png)
