@@ -16,12 +16,12 @@ To start the game, run
 python snake.py
 ```
 
-![alt text](https://github.com/collins-hue/snake-xenzia/blob/main/scrnsht_1.png?raw=true)
+![alt text](https://github.com/collins-hue/snake-xenzia/blob/main/scrnsht_1.png)
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
-![alt text](https://github.com/collins-hue/snake-xenzia/blob/main/scrnsht_2.png?raw=true)
+![alt text](https://github.com/collins-hue/snake-xenzia/blob/main/scrnsht_2.png)
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
-![alt text](https://github.com/collins-hue/snake-xenzia/blob/main/scrnsht_3.png?raw=true)
+![alt text](https://github.com/collins-hue/snake-xenzia/blob/main/scrnsht_3.png)
